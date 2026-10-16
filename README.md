@@ -15,3 +15,5 @@ I am learning Git and GitHub through hands-on practice.
 -User profile page
 -Name and bio
 -Profile editing
+
+Project title: Event Dashboard
