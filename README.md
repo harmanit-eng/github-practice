@@ -9,4 +9,4 @@ This is my first git repository.
 
 My goal is to become a batter software developer.
 
-I ma learning Git and GitHub through hands-on practice.
+I am learning Git and GitHub through hands-on practice.
