@@ -6,3 +6,5 @@ This is my first git repository.
 - Git basics
 - Version control
 - GitHub collaboration
+
+My goal is to become a batter software developer.
