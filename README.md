@@ -8,3 +8,5 @@ This is my first git repository.
 - GitHub collaboration
 
 My goal is to become a batter software developer.
+
+I ma learning Git and GitHub through hands-on practice.
