@@ -10,3 +10,8 @@ This is my first git repository.
 My goal is to become a batter software developer.
 
 I am learning Git and GitHub through hands-on practice.
+
+## Profile Feature
+-User profile page
+-Name and bio
+-Profile editing
