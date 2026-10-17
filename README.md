@@ -16,8 +16,7 @@ I am learning Git and GitHub through hands-on practice.
 -Name and bio
 -Profile editing
 
-<<<<<<< HEAD
 Project title: College Events
-=======
 Project title: Event Dashboard
->>>>>>> feature-dashboard
+
+I am learning about stash the changes
