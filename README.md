@@ -12,11 +12,17 @@ My goal is to become a batter software developer.
 I am learning Git and GitHub through hands-on practice.
 
 ## Profile Feature
--User profile page
--Name and bio
--Profile editing
+- User profile page
+- Name and bio
+- Profile editing
 
 Project title: College Events
 Project title: Event Dashboard
 
 I am learning about stash the changes
+
+##GitHub Collaboration
+
+-Create branches for new feature.
+-Commit changes with clear messages.
+-Use pull requests to review changes.
